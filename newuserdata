@@ -2,3 +2,5 @@
 
 user = ansible 
 group = ansiblegroup
+
+print "Done"
